@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GersonAlvees.
-- 👀 I’m interested in java, python, c, c#, php, javascript, html.
-- 🌱 I’m currently learning java, python.
+- 👀 I’m interested in java, python, c, c#, javascript, TypeScript, NodeJS, NestJS.
+- 🌱 I’m currently learning java, python, javascript, TypeScript, NodeJS and NestJS.
 - 💻 I study software engineering at Jala university.
 
 <!---
